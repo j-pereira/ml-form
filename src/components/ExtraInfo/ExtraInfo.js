@@ -39,7 +39,7 @@ class ExtraInfo extends Component {
                     <div className="p-2"> 
                         <div class="form-group">
                             <label htmlFor="q1">
-                                1. Qual o perfil que você acha que a sociedade espera das mulheres?
+                                1. Para você, como é o perfil que a sociedade espera das mulheres?
                             </label>
                             <textarea class="form-control" 
                                 id="q1" 

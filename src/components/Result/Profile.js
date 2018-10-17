@@ -12,8 +12,11 @@ import img_quincas_borba from '../../img/quincas_borba.jpg'
 import img_nda from '../../img/nda.jpg'
 
 const profile = (props) => {
-    let profileDescription = props.books[props.profile.book].description.split("|");
-    let schoolDescription = props.schools[props.books[props.profile.book].school].description.split("|");
+    const books = props.books();
+    const schools = props.schools();
+
+    let profileDescription = books[props.profile.book].description.split("|");
+    let schoolDescription = schools[books[props.profile.book].school].description.split("|");
 
     let renderPD = profileDescription.map(paragraph => {
         return ( <p>{paragraph}</p> )
@@ -48,24 +51,24 @@ const profile = (props) => {
 
     return (
         <div className="pl-2 pr-2">
-            <div className="page-title mb-3"> {props.books[props.profile.book].woman} {props.books[props.profile.book].title} </div> 
+            <div className="page-title mb-3"> {books[props.profile.book].woman} {books[props.profile.book].title} </div> 
             <div className="row mb-3">
                 <div className="col col-sm-1 col-md-2 col-lg-3">
                 </div>
                 <div className="col col-sm-11 col-md-10 col-lg-9">
-                    <div className="text-secondary text-right font-italic pr-2"> {props.books[props.profile.book].part} </div>
+                    <div className="text-secondary text-right font-italic pr-2"> {books[props.profile.book].part} </div>
                 </div>
             </div>
             <div className="row mb-5">
                 <div className="col col-sm-12 col-md-4 col-lg-4">
-                    <img src={img} alt={props.books[props.profile.book].title} height="300em" width="215em" className="pl-4 pt-2 p-4"/>
+                    <img src={img} alt={books[props.profile.book].title} height="300em" width="215em" className="pl-4 pt-2 p-4"/>
                 </div>
                 <div className="col col-sm-12 col-md-8 col-lg-8">
                     <div className="text-justify p-2"> {renderPD} </div>
                 </div>
             </div> 
 
-            <div className="mt-5 text-center school-result"> {props.schools[props.books[props.profile.book].school].title} </div>
+            <div className="mt-5 text-center school-result"> {schools[books[props.profile.book].school].title} </div>
             <div className="text-justify p-3"> {renderSD} </div>
         </div>
     )
