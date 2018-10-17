@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';   
 import Profile from '../Result/Profile';
 import config from '../../config/personalityQuestions';
+import FirebaseService from "../../services/firebaseServices";
 
 class Result extends Component {
 
@@ -76,13 +77,18 @@ class Result extends Component {
                 )
             });
             
-            /*const formResult = {
-                form: this.props.form,
-                result: {
-                    personalityFormResult: result,
-                    profile: profile
-                }
-            }*/
+
+            console.log(this.props.form)
+            console.log(result)
+
+            const form = this.props.form;
+
+            FirebaseService.pushData('forms', {
+                extraInfo: form.extraInfo,
+                personalInfo: form.personalInfo,
+                personalityForm: form.personalityForm,
+                result: result
+            });
        }
     
         return (
