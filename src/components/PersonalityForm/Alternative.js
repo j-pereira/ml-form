@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import ReactDOM from 'react-dom'; 
 
 class Alternative extends Component {
 
@@ -9,7 +10,7 @@ class Alternative extends Component {
         }
     }
     
-
+    
     render(){
 
     

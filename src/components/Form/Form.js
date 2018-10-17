@@ -15,8 +15,7 @@ class Form extends Component {
             step: 0,
             personalInfo: {},
             extraInfo: {},
-            personalityForm: {},
-            result: {}
+            personalityForm: {}
         }
     }
 
@@ -39,6 +38,10 @@ class Form extends Component {
         this.setState({ step: newStep });
     }
 
+    componentDidMount() {
+        ReactDOM.findDOMNode(this).scrollTop = 0
+    }
+
     componentDidUpdate() {
         ReactDOM.findDOMNode(this).scrollTop = 0
     }
@@ -57,7 +60,7 @@ class Form extends Component {
             page = <PersonalityForm next={this.saveChangesAndGoToNextPage.bind(this)}  />
         else if (this.state.step === 4)
             page = <Result form={this.state} next={this.goToNextPage.bind(this)} />
-        else if (this.state.page === 5)
+        else if (this.state.step === 5)
             page = <Acknowledgment />
         
 

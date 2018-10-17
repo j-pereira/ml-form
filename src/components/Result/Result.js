@@ -73,7 +73,7 @@ class Result extends Component {
             
             profileResult = profile.map(p => {
                 return (
-                    <Profile profile={p} books={this.getBooks()} schools={this.getSchools()} />
+                    <Profile profile={p} books={this.getBooks} schools={this.getSchools} />
                 )
             });
             

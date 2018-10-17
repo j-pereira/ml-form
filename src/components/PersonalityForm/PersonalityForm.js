@@ -67,10 +67,6 @@ class PersonalityForm extends Component {
         ReactDOM.findDOMNode(this).scrollTop = 0
     }
 
-    componentDidUpdate() {
-        ReactDOM.findDOMNode(this).scrollTop = 0
-    }
-
 
     render(){
         
