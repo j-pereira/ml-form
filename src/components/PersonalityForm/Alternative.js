@@ -12,12 +12,11 @@ class Alternative extends Component {
     
     
     render(){
-
     
         return (
             <div> 
                 <div className="form-check">
-                    <label className="form-check-label p-2">
+                    <label className="form-check-label m-2">
                         <input 
                             className="form-check-input" 
                             type="radio" 

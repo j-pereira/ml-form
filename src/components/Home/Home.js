@@ -23,17 +23,27 @@ class Home extends Component {
                             Temos por objetivo descobrir quem você é na literatura realista ou romântica através de um teste de personalidade. Então se ajeita e bora começar!</p>
                         </div>
                     </div>
-                    <div className="col-sm-2 col-md-2 col-lg-2"></div>
+                    <div className="col-sm-2 col-md-2 col-lg-2">
+                    </div>
                 </div>
                 <div className="row mt-2">
                     <div className="col">
                         <button 
                             type="submit" 
-                            className="btn btn-primary float-right mb-4 mt-4"
+                            className="btn btn-primary float-right mb-4 mt-4 mr-3"
                             onClick={(event) => {this.props.next(event)}}>
                             Começar
                         </button>
                     </div>
+                </div>
+                
+                <div className="float-center text-center pb-1">
+                    <small>© Mulheres Literais - 1.0</small>
+                </div>
+                <div className="float-center text-center pb-1">
+                    <small>
+                        <a className="pl-2" href="mailto:mayara.fp@outlook.com?subject=Mulheres%20Literais%20-%20Reporte%20Problema" target="_blank" >Teve algum problema? Reporte aqui</a>
+                    </small>
                 </div>
                 <div className="row pb-1">
                     <div className="col"></div>

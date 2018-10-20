@@ -57,6 +57,7 @@ class PersonalityForm extends Component {
             let newState = this.state;
             let newPage = this.state.page +1;
             newState.page = newPage;
+            window.scrollTo(0, 0);
             this.setState( newState );
         } else {
             alert("Questão obrigatória.");
@@ -64,12 +65,10 @@ class PersonalityForm extends Component {
     }
 
     componentDidMount() {
-        ReactDOM.findDOMNode(this).scrollTop = 0
+        window.scrollTo(0, 0)
     }
 
-
     render(){
-        
         const personalityQuestion = this.getPersonalityQuestions();
 
         let question = personalityQuestion[this.state.page].title;

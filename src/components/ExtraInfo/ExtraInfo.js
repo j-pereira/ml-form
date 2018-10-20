@@ -23,10 +23,7 @@ class ExtraInfo extends Component {
     componentDidMount() {
         window.scrollTo(0, 0)
     }
-
-    componentDidUpdate() {
-        ReactDOM.findDOMNode(this).scrollTop = 0
-    }
+    
 
     render(){
     

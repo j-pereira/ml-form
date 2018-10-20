@@ -23,70 +23,70 @@ const config = {
             woman: 'Angélica',
             title: ' – A Bruxa do Monte Córdova, Camilo Castelo Branco (1867)',
             part: '“Ainda que deus lha perdoasse, e mandasse anjos a publicar na terra o indulto da pecadora, o mundo não lhe perdoaria.”',
-            description: 'Você acredita que a mulher pode ser a causadora da desgraça de um homem, bem como tem a capacidade de leva-lo para os bons caminhos. Acredita que a mulher deve ser responsabilizada pelo sofrimento masculino, uma vez que ela deve cuidar e zelar pelo bem-estar dos homens que a cercam, e que a penitencia religiosa é o melhor caminho para condenar aquela que não cumprir seu papel.|Para você a maternidade é uma dádiva divina, mas também pode se tornar um castigo se a mulher não for merecedora de tal presente. Você também é extremamente influenciada pela igreja/religião e acha que ela é a única salvação para a alma de uma mulher pecadora.|No geral, você acredita que a mulher deve ser casta, pura e principalmente submissa aos mandamentos da sociedade, da igreja, e dos homens de sua vida.',
+            description: 'Essa personagem acredita que a mulher pode ser a causadora da desgraça de um homem, bem como tem a capacidade de leva-lo para os bons caminhos. Acredita também que a mulher deve ser responsabilizada pelo sofrimento masculino, uma vez que ela deve cuidar e zelar pelo bem-estar dos homens que a cercam, e que a penitencia religiosa é o melhor caminho para condenar aquela que não cumprir seu papel.|Para Angélica, a maternidade é uma dádiva divina, mas também pode se tornar um castigo se a mulher não for merecedora de tal presente. Na história, ela também foi extremamente influenciada pela igreja/religião e acha que essa é a única salvação para a alma de uma mulher pecadora.|No geral, Angélica acredita que a mulher deve ser casta, pura e principalmente submissa aos mandamentos da sociedade, da igreja, e dos homens de sua vida.',
             school: 'romantism'
         },
         doida_candal: {
             woman: 'Lúcia',
             title: ' – A Doida do Candal, Camilo Castelo Branco (1867)',
             part: '“Costelas do homem: não há aí mais dizer.”',
-            description: 'Seu perfil é o de uma mulher que quer ser livre para amar ou não, casar ou não, ser mãe ou não sem ser moralmente repreendida por isso. No entanto, a partir do momento em que as pressões sociais começam a crescer, você cede em nome de sua reputação, e para evitar fofocas e exclusão social.|Desta forma, você acredita que a mulher deve repreender seus amores e desejos em nome de uma moral e reputação, e que o sofrimento é uma característica básica da mulher de valor. Apesar de você ter opiniões bem formadas e vontades bem delineadas, você cede às convenções sociais em prol do bem-estar de outras pessoas.|Além disso, apesar de se considerar independente, você está sempre amarrada ao afeto e às opiniões dos homens a sua volta – são eles que, em alguma medida, decidem – direta ou indiretamente – os rumos que a sua vida toma.',
+            description: 'Seu perfil é o de uma mulher que quer ser livre para amar ou não, casar ou não, ser mãe ou não sem ser moralmente repreendida por isso. No entanto, assim como Lúcia em A Doida do Candal, a partir do momento em que as pressões sociais começam a crescer, você tende a ceder para evitar fofocas e exclusão social.|Por mais que sofra, Lúcia acredita que a mulher deva repreender seus amores e desejos em nome da moral e reputação, e que o sofrimento é uma característica básica da mulher de valor. Apesar de ter opiniões bem formadas e vontades bem delineadas, ela cede às convenções sociais em prol do bem-estar de outras pessoas.|Além disso, apesar de se considerar independente, Lúcia está sempre amarrada ao afeto e às opiniões dos homens a sua volta – são eles que, em alguma medida, decidem – direta ou indiretamente – os rumos que a sua vida toma.',
             school: 'romantism'
         },
         viuvinha: {
             woman: 'Carolina',
             title: ' – A Viuvinha, José de Alencar (1857)',
             part: '“Uma jóia, uma flor, um laço de fita, em vez de enfeitá-la, ocultariam uma das mil graças e mil perfeições que a natureza se esmerara em criar nela”',
-            description: '“Bela, recatada e do lar”. Você se porta como uma mulher pura, virtuosa e de valores tradicionais. Resigna-se ao seu papel de mulher e esposa submissa e dependente. Sente que o amor é único e só é sentido uma única vez, e desta forma, é fiel a este amor.|Você perdoa fácil e sente que sua vida não faria sentido sem o homem/a mulher amado(a). É romântica, casta, frágil, delicada e prefere se manter na inocência. Essas características são a expressão da sua feminilidade.',
+            description: '“Bela, recatada e do lar”. Carolina se porta como uma mulher pura, virtuosa e de valores tradicionais. Resigna-se ao seu papel de mulher e esposa submissa e dependente. Sente que o amor é único e só é sentido uma única vez, e desta forma, é fiel a este amor.|Carolina também perdoa fácil e sente que sua vida não faria sentido sem o homem/a mulher amado(a).|Assim como ela, você é uma mulher de perfil romântico, casto, frágil e delicado que prefere se manter inocente em defesa de sua honra e moral|Essas características são a expressão da sua feminilidade.',
             school: 'romantism'
         },
         luciola: {
             woman: 'Lúcia', 
             title: ' – Lucíola, José de Alencar (1862)',
             part: '“Não será a imagem verdadeira da mulher que no abismo da perdição conserva a pureza da alma?”',
-            description: 'Assim como Lúcia, você é complexa. Sua essência exala pureza, castidade e ingenuidade, sem perder a personalidade, a força de suas convicções e o pulso firme.|Independentemente das situações em que esteja inserida, você mantém-se firme em suas decisões e na defesa de sua dignidade. No entanto, no fundo você deseja viver um romance como nos livros e almeja a felicidade conjugal.|Você se porta como uma mulher forte, decidida, orgulhosa e até mesmo fria, mas em seu interior existe uma enorme vontade de não precisar possuir nenhuma dessas características e apenas desfrutar de uma vida calma, segura e dentro dos padrões da sociedade. Você também teme a maternidade, por não estar certa se isso será algo bom para você, para a criança e para o mundo.',
+            description: 'Assim como Lúcia, você é complexa. Sua essência exala pureza, castidade e ingenuidade, sem perder a personalidade, a força de suas convicções e o pulso firme.|Independentemente das situações em que esteja inserida, Lúcia (cujo nome verdadeiro é Maria da Glória) mantém-se firme em suas decisões e na defesa de sua dignidade. No entanto, no fundo ela deseja viver um romance como nos livros e almeja a felicidade conjugal.|Tal qual Lúcia, você se porta como uma mulher forte, decidida, orgulhosa e até mesmo fria em alguns momentos, mas em seu interior existe uma enorme vontade de não precisar possuir nenhuma dessas características e apenas desfrutar de uma vida calma, segura e dentro dos padrões da sociedade. Você também teme a maternidade, por não estar certa se isso será algo bom para você, para a criança e para o mundo.',
             school: 'romantism'
         },
         mulher_30_anos: {
             woman: 'Júlia', 
             title: ' – A mulher de trinta anos, Honoré Balzac (1842)',
             part: '“Ah! Queria fazer uma guerra a esse mundo para lhe renovar e destruir as leis e os costumes!”',
-            description: 'Você deseja intensamente viver, sentir e ser feliz, mas devido ao pudor, às exigências da sociedade e ao medo de ferir sua reputação, do marido e dos filhos, prefere se abster.|Você é extremamente consciente de todas as injustiças que uma mulher sofre apenas por ser mulher: seja no casamento, onde os homens tem muito mais liberdade que as mulheres; seja na maternidade, onde todas as responsabilidades e consequências caem sobre a mãe e quase nunca sobre o pai; seja na vida social, em que uma mulher deve se portar sempre de forma recatada e submissa ao marido.|Júlia acredita que o casamento seja uma tortura psicológica, principalmente se a mulher não for feliz com o homem com quem se casou. Para manter-se respeitável, a mulher deve continuar fiel ao seu casamento, custe o que custar. Assim como Júlia, você sofre com essa situação terrível e não a aceita como justa, mas não sabe o que fazer para se livrar dela.',
+            description: 'Você deseja intensamente viver, sentir e ser feliz, mas devido ao pudor, às exigências da sociedade e ao medo de ferir sua reputação, do marido e dos filhos, prefere se abster.|No romance, Júlia é extremamente consciente de todas as injustiças que uma mulher sofre apenas por ser mulher: seja no casamento, onde os homens tem muito mais liberdade que as mulheres; seja na maternidade, onde todas as responsabilidades e consequências caem sobre a mãe e quase nunca sobre o pai; seja na vida social, em que uma mulher deve se portar sempre de forma recatada e submissa ao marido.|Júlia acredita que o casamento seja uma tortura psicológica, principalmente se a mulher não for feliz com o homem com quem se casou. Para manter-se respeitável, a mulher deve continuar fiel ao seu casamento, custe o que custar. Assim como nossa personagem, você sofre com essa situação terrível e não a aceita como justa, mas não sabe o que fazer para se livrar dela.',
             school: 'realism'
         },
         madame_bovary: {
             woman: 'Emma', 
             title: ' – Madame Bovary, Gustave Flaubert (1856)',
             part: '“O dever é sentir o que é grande, querer o que é belo, e não aceitar todas as convenções da sociedade, com as ignomínias que ela nos impõe.”',
-            description: 'Você é uma sonhadora irremediável.|Deseja a todo custo uma vida cheia de emoções, aventuras, paixões, luxo e beleza. Passa – ou passou – um bom tempo de sua vida imaginando e fantasiando como seria maravilhoso viver em uma cidade badalada, onde pudesse viver livre, e amar sem limites. Ter uma história como às das personagens dos romances que lê ou assiste é seu maior desejo.|Por não ter como viver dessa forma, você se sente presa e deprimida, tendo explosões incontroláveis de tristeza e raiva, onde culpa a sociedade e todos que estão a sua volta. Para você, são eles que lhe prendem e impedem de ser verdadeiramente feliz.|A tristeza profunda é sua companhia constante, juntamente com o tédio, a fantasia e o desejo de mudança. Para tentar mudar essa situação, você se arrisca nas mais variadas aventuras (lícitas ou não; morais ou não), mas se descobre como uma mulher presa dentro de seus desejos pelas convenções sociais.',
+            description: 'Você é uma sonhadora irremediável.|Assim como Emma Bovary, você deseja a todo custo uma vida cheia de emoções, aventuras, paixões, luxo e beleza. Passa – ou passou – um bom tempo de sua vida imaginando e fantasiando como seria maravilhoso viver em uma cidade badalada, onde pudesse viver livre e amar sem limites. Ter uma história como às das personagens dos romances que lê ou assiste é seu maior desejo.|Por não conseguir viver dessa forma, Emma se sente presa e deprimida, tendo explosões incontroláveis de tristeza e raiva, onde culpa a sociedade e todos que estão a sua volta. Para Emma, são eles que lhe prendem e impedem de ser verdadeiramente feliz.|A tristeza profunda é a companhia constante da personagem, juntamente com o tédio, a fantasia e o desejo de mudança. Para tentar mudar essa situação, ela se arrisca nas mais variadas aventuras (lícitas ou não; morais ou não), mas se descobre como uma mulher presa dentro de seus desejos pelas convenções sociais.',
             school: 'realism'
         },
         mem_pos_bras_cubas: {
             woman: 'Virgília', 
             title: ' – Memórias Póstumas de Brás Cubas, Machado de Assis (1881)',
             part: '“Era isto Virgília, e era clara, muito clara, faceira, ignorante, pueril, cheia de uns ímpetos misteriosos; muita preguiça e alguma devoção, - devoção, ou talvez medo; creio que medo.”',
-            description: 'Você vê a qualidade de vida como prioridade em relação ao amor. Acredita que amar é maravilhoso e traz imensa felicidade, mas segurança social e financeira são mais importantes.|Virgília casou-se por interesse com um homem que não amava e manteve por anos um caso paralelo com o homem que amava. Você, assim como Virgília, acredita que o casamento é uma convenção social utilizada para alcançar qualidade de vida e prestígio.|Entretanto, isso não impede que você – estando na mesma situação que Virgília – seja uma esposa dedicada e meticulosa, uma vez que é do matrimonio que todos os seus privilégios provêm.|A maternidade, apesar de ser algo bonito, tem menor importância em sua vida, não sendo obrigatória para que você se sinta completa.',
+            description: 'Virgília é uma personagem que vê a qualidade de vida como prioridade em relação ao amor. Ela acredita que amar é algo maravilhoso e que traz imensa felicidade, mas que segurança social e financeira são mais importantes.|Virgília casou-se por interesse com um homem que não amava e manteve por anos um caso paralelo com o homem que amava. Você, assim como Virgília, provavelmente acredita que o casamento é uma convenção social utilizada para alcançar qualidade de vida e prestígio.|Entretanto, isso não impede que você – estando na mesma situação que Virgília – seja uma esposa dedicada e meticulosa, uma vez que é do matrimonio que todos os seus privilégios provêm.|A maternidade, apesar de ser algo bonito, tem menor importância em sua vida, não sendo obrigatória para que você se sinta completa.',
             school: 'realism'
         },
         primo_basilio: {
             woman: 'Luísa', 
             title: ' – O primo Basílio, Eça de Queiroz (1878)',
             part: '“- Não há más mulheres, minha rica senhora, há maus homens, é o que há!”',
-            description: 'Você vive de forma tranquila, leve e aparentemente feliz conforme os padrões ditados pela sociedade, mas sonha em ser e sentir mais. Ingênua, crê que a emoção que falta em sua vida pode ser obtida através de uma paixão avassaladora.|Apesar disso, você tem um grande senso de amor próprio e orgulho, que te fazem enxergar quando não está sendo tratada da forma que realmente merece e/ou que está recebendo pouco em relação ao quanto se doa para o homem que ama. No entanto, mesmo com essa consciência, você sente-se dependente desses sentimentos e do homem que os desperta, impedindo assim que você possa deixa-lo. Isso pode se tornar facilmente em um relacionamento abusivo, tome cuidado!|Além disso, você aceita a hierarquia de gêneros que a sociedade impõe, apesar de considera-la um tanto injusta. A maternidade para você é um sonho cor-de-rosa e parte da realização feminina.',
+            description: 'Você vive de forma tranquila, leve e aparentemente feliz conforme os padrões ditados pela sociedade, mas sonha em ser e sentir mais. Ingênua, crê que a emoção que falta em sua vida pode ser obtida através de uma paixão avassaladora.|Apesar disso, assim como Luísa, você tem um grande senso de amor próprio e orgulho, que te fazem enxergar quando não está sendo tratada da forma que realmente merece e/ou que está recebendo pouco em relação ao quanto se doa para o homem que ama. No entanto, mesmo com essa consciência, é possível que você sinta-se dependente desses sentimentos e da pessoa que os desperta, impedindo assim que você possa deixa-la. Isso pode se tornar facilmente em um relacionamento abusivo, tome cuidado!|Além disso, Luísa também aceita a hierarquia de gêneros que a sociedade impõe, apesar de considera-la um tanto injusta. A maternidade para ela é um sonho cor-de-rosa e parte da realização feminina.',
             school: 'realism'
         },
         dom_casmurro: {
             woman: 'Capitu', 
             title: ' – Dom Casmurro, Machado de Assis (1899)',
             part: '“Capitu, apesar daqueles olhos que o Diabo lhe deu... Você já reparou nos olhos dela? São assim de cigana oblíqua e dissimulada.”',
-            description: 'Você é uma mulher extremamente curiosa, livre, inteligente e de pensamento rápido. É capaz de inventar planos mirabolantes para garantir que conseguirá o que deseja, nem que para isso seja necessário manipular algumas pessoas.|Você é uma líder nata, não apenas por ser relativamente mandona, mas também por saber como exercer grande influência racional e emocional sobre outras pessoas. Todas essas características não impedem; pelo contrário, acentuam sua maturidade e juízo que podem ser percebidos desde a mais tenra idade. Sua sensualidade aliada a doçura, é característica marcante.|Você não aceita desaforos e desconfianças, apesar de não se sentir na total obrigação de passar segurança em seus atos e falas. Casamento e maternidade são para você meios de se alcançar a felicidade, mas não necessariamente os únicos.',
+            description: 'Capitu é uma mulher extremamente curiosa, livre, inteligente e de pensamento rápido. É capaz de inventar planos mirabolantes para garantir que conseguirá o que deseja, nem que para isso seja necessário manipular algumas pessoas.|Assim como ela, você provavelmente é uma líder nata, não apenas por ser relativamente mandona, mas também por saber como exercer grande influência racional e emocional sobre outras pessoas. Todas essas características não impedem; pelo contrário, acentuam sua maturidade e juízo que podem ser percebidos desde a mais tenra idade. A sensualidade aliada a doçura, é característica marcante desta personagem.|Como Capitu, você provavelmente não aceita desaforos e desconfianças, apesar de não se sentir na total obrigação de passar segurança em seus atos e falas. Casamento e maternidade são para você meios de se alcançar a felicidade, mas não necessariamente os únicos.',
             school: 'realism'
         },
         quincas_borba: {
             woman: 'Sofia', 
             title: ' – Quincas Borba, Machado de Assis (1891)',
             part: '“Comprazia-se na contemplação de si mesma, das suas ricas formas, dos braços nus de cima a baixo, dos próprios olhos contempladores”',
-            description: 'Você é uma mulher movida pela vaidade e o desejo de ser o centro das atenções.|Acredita que as mulheres possuem atributos como a beleza, sedução e inteligência, que possam manipular e dominar aqueles que tem algo a oferecer. Você não necessariamente faz uso dessas armas, mas está a todo momento ciente do poder que elas possuem.|Na obra, Sofia se mostra como uma mulher inteligente, ambiciosa, fria, calculista e que utiliza de sua beleza estonteante para alcançar seus objetivos. Sua beleza é mostrada de forma perigosa, sendo utilizada como uma arma.|Apesar disso, você se mantém dentro dos padrões esperados de uma mulher e não age de forma que a descaracterize como uma “mulher de respeito”. Seus anseios são principalmente pelo status e a ascensão social.',
+            description: 'Sofia é uma mulher movida pela vaidade e o desejo de ser o centro das atenções.|Como ela, você provavelmente acredita que as mulheres possuem atributos como a beleza, sedução e inteligência que podem ser usados para manipular e dominar aqueles que tem algo a oferecer. Você não necessariamente faz uso dessas armas, mas está a todo momento ciente do poder que elas possuem.|Na obra, Sofia se mostra como uma mulher inteligente, ambiciosa, fria, calculista e que utiliza de sua beleza estonteante para alcançar seus objetivos. Sua beleza é mostrada de forma perigosa, sendo utilizada como uma arma.|Apesar disso, ela se mantém dentro dos padrões esperados de uma mulher e não age de forma que a descaracterize como uma “mulher de respeito”. Seus anseios são principalmente pelo status e a ascensão social.',
             school: 'realism'
         },
         nda: {
@@ -101,7 +101,7 @@ const config = {
             title: 'NSCO',
             part: 'Trecho',
             description: 'Descrição',
-            school: 'NSCO'
+            school: 'nsco'
         }
     },
 
@@ -115,11 +115,11 @@ const config = {
                     value: 'bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) Recusaria no início, tentaria a todo custo e sem medo se impor à sociedade e àqueles que lhe obrigam a tal situação, mas ao perceber que não há outra saída, cederia e tentaria tirar o melhor disso. Quem sabe até aprenderia a amar o marido.',
+                    option: 'b) Recusaria no início e tentaria a todo custo se impor àqueles que lhe obrigam a essa situação, mas ao perceber que não há outra saída, cederia e tentaria tirar o melhor disso. Talvez até aprendesse a amar o marido.',
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) Caso não haja vontade de casar-se, ou arrependimento após o casamento consumado, não há nada que possa ser feito além de suspirar e se lamentar.',
+                    option: 'c) Após um casamento contra vontade, não há nada que possa ser feito além de suspirar e se lamentar.',
                     value: 'viuvinha'
                 },
                 {
@@ -127,15 +127,15 @@ const config = {
                     value: 'luciola'
                 },
                 {
-                    option: 'e) Por mais que sofra, se calaria para evitar vergonha para si e para a família.',
+                    option: 'e) Por mais que sofresse, você se calaria para evitar vergonha para si e para a família.',
                     value: 'mulher_30_anos'
                 },
                 {
-                    option: 'f) Acredita que não há meios de sair desta situação, ainda que deseje com todas as forças de sua alma. Por isso, busca outras formas (principalmente no adultério) de encontrar sua realização e felicidade pessoal, emocional e amorosa.',
+                    option: 'f) Você acredita que não há meios de sair desta situação, por isso, busca outras formas (principalmente no adultério) de encontrar sua realização e felicidade pessoal, emocional e amorosa.',
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'g) Por mais que não seja seu maior desejo, tentaria tirar desta situação aquilo que pudesse lhe dar conforto e ascender socialmente.',
+                    option: 'g) Por mais que não seja seu maior desejo, tentaria tirar desta situação aquilo que pudesse lhe dar conforto e ascensão social.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
@@ -152,11 +152,11 @@ const config = {
                     value: 'bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) O casamento é uma instituição social que ampara a mulher adulta, mas que não deve acontecer se não houver amor. No entanto, se for necessário, a mulher deve aprender a amar o homem.',
+                    option: 'b) O casamento é uma instituição social que ampara a mulher adulta, mas que não deve acontecer se não houver amor.',
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) Vê no casamento a realização de um sonho, o destino habitual de toda mulher que almeja a felicidade.',
+                    option: 'c) A realização de um sonho, o destino habitual de toda mulher que almeja a felicidade.',
                     value: 'viuvinha'
                 },
                 {
@@ -198,15 +198,15 @@ const config = {
             title: '3.  O que é a maternidade pra você?',
             alternatives: [
                 {
-                    option: 'a) Se a mulher levar uma vida de pecadora, ela não é digna da benção que é a maternidade e deve abdicar de seu filho com forma de penitência e para evitar que a criança cresça cercada de más influências.',
+                    option: 'a) A mulher não é digna dessa benção se levar uma vida de pecadora. Nesse caso, deve abrir mão de seu filho como forma de penitência e para evitar que a criança cresça cercada de más influências.',
                     value: 'bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) Ser mãe não se reduz a gerar um filho. A adoção também é uma forma linda de maternidade. Além disso, ter um filho é uma das razões de viver e a felicidade maior de uma mulher. Uma mulher que não é mãe não pode ser uma mulher completa.',
+                    option: 'b) Ser mãe não se reduz a gerar um filho e adoção também é uma forma linda de maternidade. Além disso, uma mulher que não é mãe não pode ser uma mulher completa.',
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) Não se considera digna de algo tão magnífico.',
+                    option: 'c) Você não se considera digna de algo tão magnífico.',
                     value: 'luciola'
                 },
                 {
@@ -218,7 +218,7 @@ const config = {
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'f) Os dissabores da gravidez e do parto são suficientes para desanimar a maternidade.',
+                    option: 'f) Os dissabores da gravidez e do parto são suficientes para desanimar a ideia da maternidade.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
@@ -226,7 +226,7 @@ const config = {
                     value: 'primo_basilio'
                 },
                 {
-                    option: 'h) É importante para você e para seu casamento ser/tornar-se mãe. Essa importância é particular e você entende que não deve ser socialmente obrigatória.',
+                    option: 'h) É importante para você e para seu relacionamento ser/tornar-se mãe. Essa importância é particular e você entende que não deve ser socialmente obrigatória.',
                     value: 'dom_casmurro'
                 },
                 {
@@ -243,7 +243,7 @@ const config = {
             title: '4.  Como é vista a mulher na sociedade e como você se comporta diante disso?',
             alternatives: [
                 {
-                    option: 'a) As mulheres devem ser belas, calmas, recatadas, religiosas e submissas aos homens de suas vidas; sejam pais, maridos ou irmãos. Você aceita essa situação como sendo a melhor para sua vida.',
+                    option: 'a) As mulheres devem ser belas, recatadas, religiosas e submissas aos homens de suas vidas; sejam pais, maridos ou irmãos. Você aceita essa situação como sendo a melhor para sua vida.',
                     value: 'bruxa_monte_cordova'
                 },
                 {
@@ -251,11 +251,11 @@ const config = {
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) Espera-se que ela permaneça pura e recatada. Isso é ser mulher.',
+                    option: 'c) Espera-se que ela permaneça pura. Isso é ser mulher.',
                     value: 'viuvinha'
                 },
                 {
-                    option: 'd) Você vai contra tudo o que a sociedade diz ser certo para uma mulher e faz o que for preciso para sobreviver sozinha. Infelizmente isso não impede que você sofra com os comentários e a reputação que fazem de você. No fundo, acredita que ser mulher é um sacrifício: seja por ser submissa e aceitar que ditem como você deve viver; seja por sofrer as consequências de viver como deseja.',
+                    option: 'd) Você vai contra tudo o que a sociedade diz ser certo para uma mulher e faz o que for preciso para sobreviver sozinha. Infelizmente isso não impede que você sofra com os comentários que fazem de você. No fundo, acredita que ser mulher é um sacrifício: seja por ser submissa e aceitar que ditem como você deve viver; seja por sofrer as consequências de viver como deseja.',
                     value: 'luciola'
                 },
                 {
@@ -267,7 +267,7 @@ const config = {
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'g) Mulheres são consideradas menos aptas à algumas funções, e por isso são estigmatizadas.',
+                    option: 'g) Mulheres são consideradas menos aptas à algumas funções e por isso são estigmatizadas.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
@@ -275,11 +275,11 @@ const config = {
                     value: 'primo_basilio'
                 },
                 {
-                    option: 'i) Você tem ciência de que a sociedade prega que a mulher seja dócil e delicada, no entanto, você age de forma autônoma, saindo de situações embaraçosas de um jeito único.',
+                    option: 'i) Você tem ciência de que a sociedade quer que a mulher seja dócil e delicada, no entanto, você age de forma autônoma, saindo de situações embaraçosas de um jeito único.',
                     value: 'dom_casmurro'
                 },
                 {
-                    option: 'j) As mulheres são colocadas em pedestais, principalmente aquelas que esbanjam beleza e bom gosto. Sua vaidade vai de encontro e concorda com essa premissa, apesar de não aceitar ser subjugada.',
+                    option: 'j) As mulheres são colocadas em pedestais, principalmente aquelas que esbanjam beleza e bom gosto. Você concorda com isso, apesar de não aceitar ser subjugada.',
                     value: 'quincas_borba'
                 },
                 {
@@ -337,7 +337,7 @@ const config = {
             title: '6.  Qual a sua concepção sobre adultério?',
             alternatives: [
                 {
-                    option: 'a) Impensável. O respeito ao matrimônio, ao amor e ao marido deve vir a cima de tudo.',
+                    option: 'a) Impensável. O respeito ao matrimônio, ao amor e ao marido deve vir acima de tudo.',
                     value: 'doida_candal'
                 },
                 {
@@ -345,7 +345,7 @@ const config = {
                     value: 'luciola'
                 },
                 {
-                    option: 'c) Caso não fosse feliz em seu casamento, você o desejaria incessantemente, mas não o faria em nome da moral e de sua reputação.',
+                    option: 'c) Caso não fosse feliz em seu casamento você desejaria trair seu parceiro, mas não o faria por saber que isso é errado',
                     value: 'mulher_30_anos'
                 },
                 {
@@ -353,7 +353,7 @@ const config = {
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'e) Quando é a parte casada, a mulher sacrifica muito mais que o homem. Além disso, ainda lida com a culpa e a pressão da moral sob a mesma. O homem raramente assume as responsabilidades de um adultério.',
+                    option: 'e) Quando é a parte casada, a mulher sacrifica muito mais que o homem. Além disso, ainda lida com a culpa e a pressão da moral. O homem raramente assume as responsabilidades de um adultério.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
@@ -378,11 +378,11 @@ const config = {
             title: '7.  Como é seu relacionamento com seu ficante/namorado/noivo/marido?',
             alternatives: [
                 {
-                    option: 'a) Total submissão e serventia de bom grado. Você acredita que a felicidade de uma mulher está em servir ao marido.',
+                    option: 'a) Total submissão e serventia de bom grado. Você acredita que a felicidade de uma mulher está em servir ao parceiro.',
                     value: 'bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) Você dá o seu melhor para viver de acordo com suas convicções e desejos, mas cede aos apelos de seu parceiro. Apesar de ficar triste e até indignada, você não perde o respeito por ele e suas decisões. ',
+                    option: 'b) Você dá o seu melhor para viver de acordo com suas convicções e desejos, mas cede aos apelos de seu parceiro.',
                     value: 'doida_candal'
                 },
                 {
@@ -390,7 +390,7 @@ const config = {
                     value: 'viuvinha'
                 },
                 {
-                    option: 'd) Você não aceita que qualquer homem lhe dite como viver e quem ser, mas cede para o homem que ama e torna-se sua amante e serva.',
+                    option: 'd) Você não aceita que qualquer homem lhe diga como viver e quem ser, mas cede para o homem que ama e torna-se sua amante e serva.',
                     value: 'luciola'
                 },
                 {
@@ -398,23 +398,23 @@ const config = {
                     value: 'mulher_30_anos'
                 },
                 {
-                    option: 'f) Em caso de não se sentir feliz no relacionamento, você fantasia e deseja que qualquer evento lhe tire dessa situação terrível. Você sentiria ódio, repulsa e nojo de seu marido.',
+                    option: 'f) Em caso de não se sentir feliz no relacionamento, você fantasiaria e desejaria que qualquer evento lhe tire dessa situação terrível. Você sentiria ódio, repulsa e nojo de seu parceiro.',
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'g) Você gosta, verdadeiramente, de seu parceiro, por mais que não o ame e nutre por ele um profundo respeito. Entretanto, isso não te impede de procurar a verdadeira felicidade em outros lugares e pessoas.',
+                    option: 'g) Você gosta, verdadeiramente, de seu parceiro e tem por ele um profundo respeito, mas não o ama. Por isso procura a verdadeira felicidade em outros lugares e pessoas.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
-                    option: 'h) Você tem amor próprio e autocrítica suficiente para perceber quando não está sendo valorizada pelo seu parceiro, mas não tem força suficiente para por termo a uma situação que não lhe agrade.',
+                    option: 'h) Você tem amor próprio e autocrítica suficiente para perceber quando não está sendo valorizada pelo seu parceiro, mas não tem força suficiente para terminar uma situação que não lhe agrade.',
                     value: 'primo_basilio'
                 },
                 {
-                    option: 'i) Tem opinião forte e não desacredita dela só porque a pessoa amada diz o contrário. Manipula para conseguir o que deseja, mas não aceita migalhas como prêmio.',
+                    option: 'i) Tem opinião forte e não desacredita dela só porque a pessoa amada diz o contrário. Você faz de tudo para conseguir de seu parceiro tudo o que deseja, e não aceita migalhas como prêmio.',
                     value: 'dom_casmurro'
                 },
                 {
-                    option: 'j) Você se dá bem e tem um relacionamento de parceria com o homem que convive.',
+                    option: 'j) Você se dá bem e tem um relacionamento de parceria com o homem com quem convive.',
                     value: 'quincas_borba'
                 },
                 {
@@ -424,34 +424,34 @@ const config = {
             ]
         },
         {
-            title: '8.  Como você enxerga o amor romântico entre casais, e qual a importância dele para a sua realização pessoal?',
+            title: '8.  Como você enxerga o amor romântico entre casais e qual a importância dele para a sua realização pessoal?',
             alternatives: [
                 {
-                    option: 'a) Apesar de entender que o casamento e a submissão ao homem sejam essenciais para a realização de uma mulher, você não abre mão de que essa situação se dê somente com o homem que ama, pois prender-se eternamente e ser serva de um homem que não ama seria tortura.',
+                    option: 'a) Você etende que o casamento e a submissão ao homem sejam importantes na vida de uma mulher, mas só aceita que isso aconteça com o homem que ama.',
                     value: 'bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) Uma mulher que vive sem um amor, e consequentemente um casamento, não será plenamente feliz. Porém, isso não impede que você procure outros tipos de felicidades “menores”.',
+                    option: 'b) Uma mulher que vive sem um amor, e consequentemente um casamento, não é plenamente feliz. Porém, isso não impede que ela possa procurar felicidades “menores”.',
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) A essência da vida. O amor dá sentido à vida, e sem ele uma mulher não pode ser feliz.',
+                    option: 'c) Amar alguém dá sentido à vida, e sem ele uma mulher não pode ser feliz.',
                     value: 'viuvinha'
                 },
                 {
-                    option: 'd) Por mais que queira sentir o amor e ser cuidada por um homem, as desilusões te fazem achar que não é digna dele.',
+                    option: 'd) Você quer sentir o amor e ser cuidada por um homem, por mais que fuja, você sabe que só assim será feliz.',
                     value: 'luciola'
                 },
                 {
-                    option: 'e) Amar é sinônimo de desilusão. Por mais que deseje o amor, você sente medo após ter sofrido uma enorme desilusão.',
+                    option: 'e) Amar é sinônimo de desilusão.',
                     value: 'mulher_30_anos'
                 },
                 {
-                    option: 'f) A paixão ardente e emocionante é mais importante que um amor calmo, sendo o segundo uma prisão. Uma vida de aventuras, requintes e luxo está diretamente associada com a paixão e se faz igualmente importante para a realização sentimental. É impossível amar, sem paixão, luxo e aventuras.',
+                    option: 'f) É impossível amar sem paixão, luxo e aventuras. A paixão ardente e emocionante é mais importante que um amor calmo e sereno, já que este é uma prisão.',
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'g) Média. Não se faz indispensável, tanto quanto não é indiferente senti-lo ou não.',
+                    option: 'g) Tem importância média. Não é indispensável, tanto quanto não é indiferente senti-lo ou não.',
                     value: 'mem_pos_bras_cubas|quincas_borba'
                 },
                 {
@@ -476,7 +476,7 @@ const config = {
                     value: 'viuvinha|luciola|bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) As mulheres devem ser as principais responsáveis pelos serviços domésticos, pois possuem um dom nato para tal, mas os homens devem ajudar como puderem.',
+                    option: 'b) As mulheres devem ser as principais responsáveis pelos serviços domésticos, pois possuem um dom natural, mas os homens devem ajudar como puderem.',
                     value: 'doida_candal'
                 },
                 {
@@ -489,7 +489,7 @@ const config = {
                 },
                 {
                     option: 'e) Os homens devem ser os principais – ou os únicos – responsáveis pelos serviços domésticos, pois possuem mais habilidades físicas.',
-                    value: 'nenhum'
+                    value: 'nda'
                 },
                 {
                     option: 'f) Não tenho opinião formada sobre o assunto.',
@@ -498,38 +498,38 @@ const config = {
             ]
         },
         {
-            title: '10.    Você acha que deve haver submissão da mulher em relação ao marido?',
+            title: '10.    Você acha que deve haver submissão da mulher em relação ao parceiro?',
             alternatives: [
                 {
                     option: 'a) Sim, e inclusive essa é uma das formas de se alcançar a felicidade no matrimônio.',
                     value: 'bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) A mulher deve expressar suas opiniões, bem como deve se fazer ouvir. Ser convicta do que se pensa é extremamente importante, no entanto, a última palavra sempre será do homem.',
+                    option: 'b) A mulher deve sempre expressar suas opiniões, bem como deve se fazer ouvir, mas a última palavra sempre será do homem.',
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) Uma mulher que não é submissa não ama seu marido de verdade.',
+                    option: 'c) Uma mulher que não é submissa não ama seu parceiro de verdade.',
                     value: 'viuvinha'
                 },
                 {
-                    option: 'd) Se houver amor verdadeiro entre os dois, sim. Afinal, ser submissa ao marido significa ser protegida de qualquer maldade do mundo externo.',
+                    option: 'd) Se houver amor verdadeiro entre os dois, sim. Afinal, ser submissa ao parceiro significa ser protegida de qualquer maldade do mundo.',
                     value: 'luciola'
                 },
                 {
-                    option: 'e) A sociedade e a religião pedem que a mulher seja submissa ao marido. Esta uma questão de obrigação, é um dever das mulheres de verdade. Entretanto, você não concorda com isso e sofre com as cobranças que sofre.',
+                    option: 'e) A sociedade e a religião pedem que a mulher seja submissa ao parceiro, mas você não concorda com isso e sofre com as cobranças.',
                     value: 'mulher_30_anos'
                 },
                 {
-                    option: 'f) Não. A mulher deve fazer o que for preciso para sair da infelicidade, do marasmo e da depressão, independentemente do marido.',
+                    option: 'f) Não. A mulher deve fazer o que for preciso para sair da infelicidade, do marasmo e da depressão, independentemente do parceiro.',
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'g) A mulher deve respeitar a autoridade do marido, ainda que somente às vistas da sociedade. Individualmente, a mulher deve fazer o que bem entende.',
+                    option: 'g) A mulher deve respeitar a autoridade do parceiro, ainda que somente às vistas da sociedade. Individualmente, a mulher deve fazer o que bem entender.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
-                    option: 'h) Servidão ao marido é sinônimo de amor incondicional.',
+                    option: 'h) O amor não depende da submissão ao parceiro, já que a vida conjugal pode ser entediante.',
                     value: 'primo_basilio'
                 },
                 {
@@ -550,7 +550,7 @@ const config = {
             title: '11.   Você acha que uma mulher tem a capacidade de mudar a vida de um homem, para o bem ou para o mal?',
             alternatives: [
                 {
-                    option: 'a) As mulheres, principalmente as belas e prendadas possuem o poder de virar a cabeça de um homem e fazê-los fazer loucuras por amor e desejo. É uma tentação que leva o homem para o caminho que deseja.',
+                    option: 'a) As mulheres, principalmente as belas e prendadas possuem o poder de virar a cabeça de um homem e fazê-los fazer loucuras por amor e desejo.',
                     value: 'bruxa_monte_cordova'
                 },
                 {
@@ -558,7 +558,7 @@ const config = {
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) É capaz de tirar um homem da vida desregrada e irresponsável, para transformá-lo em um homem sem máculas; de alma pura.',
+                    option: 'c) Uma mulher é capaz de tirar um homem da vida desregrada e irresponsável para transformá-lo em um homem de alma pura.',
                     value: 'viuvinha'
                 },
                 {
@@ -599,7 +599,7 @@ const config = {
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) É impossível desvincular a vida da mulher de seu papel/lugar na sociedade e do marido.',
+                    option: 'c) É impossível desvincular a vida da mulher de seu papel/lugar na sociedade e do parceiro.',
                     value: 'viuvinha'
                 },
                 {
@@ -607,7 +607,7 @@ const config = {
                     value: 'luciola'
                 },
                 {
-                    option: 'e) É extremamente triste que as mulheres não tenham liberdade para serem quem desejam sem serem julgadas, mas esse é o retrato da nossa sociedade. Uma mulher que vive sua vida da forma que deseja normalmente é julgada e mal vista.',
+                    option: 'e) Uma mulher que vive sua vida da forma que deseja normalmente é julgada e mal vista. Isso te entristece.',
                     value: 'mulher_30_anos'
                 },
                 {
@@ -619,7 +619,7 @@ const config = {
                     value: 'mem_pos_bras_cubas'
                 },
                 {
-                    option: 'h) Você sente que este é o certo, mas a sociedade insiste em tutela-la.',
+                    option: 'h) Você sente que este é o certo, mas a sociedade insiste querer cuidar de você.',
                     value: 'primo_basilio'
                 },
                 {
@@ -627,7 +627,7 @@ const config = {
                     value: 'dom_casmurro'
                 },
                 {
-                    option: 'j) As mulheres são seres vaidosos e dissimulados que, sempre encontram formas de fazer aquilo que bem desejam, seja isso aprovado pela sociedade ou não.',
+                    option: 'j) As mulheres são seres vaidosos e dissimulados que sempre encontram formas de fazer aquilo que bem desejam, seja isso aprovado pela sociedade ou não.',
                     value: 'quincas_borba'
                 },
                 {
@@ -669,7 +669,7 @@ const config = {
             title: '14.   O que é ser mulher pra você?',
             alternatives: [
                 {
-                    option: 'a) Ser mulher é ser eternamente dependente; um ser que precisa ser tutelado. Mulheres não possuem capacidade de raciocínio e decisão tão aguçados como os homens, e devem servir de apoio para o crescimento dos homens que as cercam. Além disso, ser mulher é ser bela, esteticamente bem cuidada, pura, religiosa e submissa.',
+                    option: 'a) Ser mulher é ser eternamente dependente; um ser que precisa ser tutelado, já que as mulheres não possuem capacidade de raciocínio e decisão tão aguçadas como os homens. Além disso, ser mulher é ser bela, esteticamente bem cuidada, pura, religiosa e submissa.',
                     value: 'bruxa_monte_cordova'
                 },
                 {
@@ -677,7 +677,7 @@ const config = {
                     value: 'doida_candal'
                 },
                 {
-                    option: 'c) Ser mulher é dedicar-se a uma vida de regras e valores, casar-se e manter-se fiel e, principalmente, encontrar a felicidade no casamento.',
+                    option: 'c) Ser mulher é dedicar-se a uma vida de regras e valores, casar-se e manter-se fiel.',
                     value: 'viuvinha'
                 },
                 {
@@ -685,7 +685,7 @@ const config = {
                     value: 'luciola'
                 },
                 {
-                    option: 'e) Pura renúncia. Uma mulher deve renunciar a todos os desejos, vontade e pensamentos, em virtude da reputação, do casamento, e da maternidade. Essa consciência gera revolta e te entristece.',
+                    option: 'e) Pura renúncia. Por mais que isso te revolte e entristeça, você não consegue enxergar ser mulher como outra coisa.',
                     value: 'mulher_30_anos'
                 },
                 {
@@ -701,7 +701,7 @@ const config = {
                     value: 'primo_basilio'
                 },
                 {
-                    option: 'i) Ser mulher é ser inteligente, esperta, curiosa e decidida. Ser mulher é reafirmar que é uma mulher (e uma mulher muito forte) em todos os momentos de sua vida.',
+                    option: 'i) Ser mulher é ser inteligente, esperta, curiosa e decidida. É reafirmar que é uma mulher (e uma mulher muito forte) em todos os momentos de sua vida.',
                     value: 'dom_casmurro'
                 },
                 {
@@ -734,11 +734,11 @@ const config = {
                     value: 'mulher_30_anos'
                 },
                 {
-                    option: 'e) Os desejos sexuais da mulher são reprimidos, uma vez que mulheres que os expressem são mal vistas. Isso traz tristeza.',
+                    option: 'e) Os desejos sexuais da mulher são reprimidos, uma vez que mulheres que os expressem são mal vistas. Isso lhe traz tristeza.',
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'f) No início a mulher se sente um pouco constrangida, ainda que esteja com a pessoa que ama, mas com a intimidade, a sexualidade e a expressão dela se torna natural.',
+                    option: 'f) No início a mulher se sente um pouco constrangida em expressar sua sexualidade, ainda que esteja com a pessoa que ama, mas com a intimidade, tudo se torna natural.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
@@ -767,7 +767,7 @@ const config = {
                     value: 'bruxa_monte_cordova'
                 },
                 {
-                    option: 'b) Todas as mulheres desejam ser amadas, desejadas e tratadas da melhor maneira possível. Isso não significa, exclusivamente, que elas querem ou precisam ser cuidadas. No entanto, ter alguém que proteja e cuide de si também não é algo ruim.',
+                    option: 'b) Todas as mulheres desejam ser amadas, desejadas e tratadas da melhor maneira possível. Isso não significa, exclusivamente, que elas querem ou precisam ser cuidadas.',
                     value: 'doida_candal'
                 },
                 {
@@ -775,11 +775,11 @@ const config = {
                     value: 'viuvinha'
                 },
                 {
-                    option: 'd) Toda mulher, ainda que pareça forte, decidida e até mesmo teimosa, traz no fundo, uma vontade de ser amada e cuidada por um homem que será seu amante e senhor.',
+                    option: 'd) Toda mulher, ainda que pareça forte, decidida e até mesmo teimosa, traz no fundo uma vontade de ser amada e cuidada por um homem que será seu amante e senhor.',
                     value: 'luciola'
                 },
                 {
-                    option: 'e) As mulheres querem ser livres para amar, sentir e viver da forma que bem entenderem. Mesmo que isso inclua ser cuidada por um homem.',
+                    option: 'e) As mulheres querem ser livres para amar, sentir e viver da forma que bem entenderem; mesmo que isso inclua ser cuidada por um homem.',
                     value: 'mulher_30_anos'
                 },
                 {
@@ -787,11 +787,11 @@ const config = {
                     value: 'madame_bovary'
                 },
                 {
-                    option: 'g) As mulheres desejam estabilidade e segurança financeira e social. Esse é o único cuidado que queremos.',
+                    option: 'g) As mulheres desejam estabilidade e segurança financeira e socal. Esse é o único cuidado que queremos.',
                     value: 'mem_pos_bras_cubas'
                 },
                 {
-                    option: 'h) Você entende que todas as mulheres se sentem bem com um parceiro que a aconselhe, cuide, mantenha segura e ame. Mas isso não impede que você deseje sua liberdade.',
+                    option: 'h) Você entende que todas as mulheres se sentem bem com um parceiro que a aconselhe, cuide, mantenha segura e ame, mas isso não impede que você deseje sua liberdade.',
                     value: 'primo_basilio'
                 },
                 {
