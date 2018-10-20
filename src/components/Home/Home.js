@@ -19,7 +19,7 @@ class Home extends Component {
                     <div className="col-sm-8 col-md-8 col-lg-8">
                         <div className="mt-4 mb-4 text-center"> 
                             <p>Olá, mulher! <br/>
-                            Este questionário tem duração de aproximadamente 30 minutos e se você sair ou atualizar a página, perderá todo seu progresso. 
+                            Este questionário tem duração de aproximadamente 30 minutos e se você sair ou atualizar a página perderá todo seu progresso. 
                             Temos por objetivo descobrir quem você é na literatura realista ou romântica através de um teste de personalidade. Então se ajeita e bora começar!</p>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ class Home extends Component {
                 </div>
                 
                 <div className="float-center text-center pb-1">
-                    <small>© Mulheres Literais - 1.0</small>
+                    <small>© 2018 Mulheres Literais 1.0</small>
                 </div>
                 <div className="float-center text-center pb-1">
                     <small>

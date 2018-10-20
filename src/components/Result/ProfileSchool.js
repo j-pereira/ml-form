@@ -80,8 +80,8 @@ const profileSchool = (props) => {
         <div className="pl-2 pr-2">
             {pResult}
 
-            <div className="mt-4 text-center school-result"> {schools[books[props.profiles[0].book].school].title} </div>
-            <div className="text-justify p-3"> {renderSD} </div>
+            <div className="mt-3 text-center school-result"> {schools[books[props.profiles[0].book].school].title} </div>
+            <div className="text-justify p-3 mb-2"> {renderSD} </div>
         </div>
     )
 }

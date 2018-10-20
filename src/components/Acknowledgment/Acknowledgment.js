@@ -5,6 +5,8 @@ class Acknowledgment extends Component {
     
 
     render(){
+        window.scrollTo(0, 0);
+
         return (
             <div> 
                 
@@ -12,8 +14,17 @@ class Acknowledgment extends Component {
                     Mulheres Literais
                 </div>
                 
-                <div className="text-center mt-2 p-2">
+                <div className="text-center subtitle mt-3 p-2">
                     Obrigada pela resposta!
+                </div>
+                <div className="text-center aboutResearch mt-5">Sobre a pesquisa</div>
+                <div className="text-justify p-2 ml-2 mr-2">
+                    <p>
+                    Essa pesquisa é parte do projeto Mulheres Literais - Análise comparativa do perfil da mulher no Romantismo e Realismo em convergência com o perfil contemporâneo, realizada por Mayara de Farias Pereira do curso de Letras da UNIFACCAMP, sob orientação da professora PhD Jaqueline Massagardi Mendes, e visa comparar os perfis femininos descritos na literatura do século XIX com as mulheres atuais.
+                    </p>
+                    <p>
+                        Para essa pesquisa foram utilizadas as obras A Bruxa do Monte Córdova (Camilo Castelo Branco, 1867), A Doida do Candal (Camilo Castelo Branco, 1867), A Viuvinha (José de Alencar, 1857) e Lucíola (José de Alencar, 1862) do período romântico, além de A mulher de Trinta Anos (Honoré Balzac, 1842), Madame Bovary (Gustave Flaubert, 1856), Dom Casmurro (Machado de Assis, 1899), Memórias Póstumas de Brás Cubas (Machado de Assis, 1881) e Quincas Borba (Machado de Assis, 1891) do período realista.
+                    </p>
                 </div>
                 <div className="p-2"> 
                     <p className="p-2 text-center">Gostou? Aproveita e compartilhe o link dessa pesquisa com as mulheres que você conhece.</p>
@@ -63,7 +74,7 @@ class Acknowledgment extends Component {
 
                 </div>
                 <div className="float-center text-center mt-2 pb-1">
-                    <small>© Mulheres Literais - 1.0</small>
+                    <small>© 2018 Mulheres Literais 1.0</small>
                 </div>
                 <div className="row">
                     <div className="col"></div>

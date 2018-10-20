@@ -37,7 +37,7 @@ const config = {
             woman: 'Carolina',
             title: ' – A Viuvinha, José de Alencar (1857)',
             part: '“Uma jóia, uma flor, um laço de fita, em vez de enfeitá-la, ocultariam uma das mil graças e mil perfeições que a natureza se esmerara em criar nela”',
-            description: '“Bela, recatada e do lar”. Carolina se porta como uma mulher pura, virtuosa e de valores tradicionais. Resigna-se ao seu papel de mulher e esposa submissa e dependente. Sente que o amor é único e só é sentido uma única vez, e desta forma, é fiel a este amor.|Carolina também perdoa fácil e sente que sua vida não faria sentido sem o homem/a mulher amado(a).|Assim como ela, você é uma mulher de perfil romântico, casto, frágil e delicado que prefere se manter inocente em defesa de sua honra e moral|Essas características são a expressão da sua feminilidade.',
+            description: '“Bela, recatada e do lar”. Carolina se porta como uma mulher pura, virtuosa e de valores tradicionais. Resigna-se ao seu papel de mulher e esposa submissa e dependente. Sente que o amor é único e só é sentido uma única vez, e por isso é fiel a este amor.|Carolina também perdoa fácil e sente que sua vida não faria sentido sem o homem/a mulher amado(a).|Assim como ela, você é uma mulher de perfil romântico, casto, frágil e delicado que prefere se manter inocente em defesa de sua honra e moral|Essas características são a expressão da sua feminilidade.',
             school: 'romantism'
         },
         luciola: {
