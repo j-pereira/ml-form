@@ -72,14 +72,7 @@ class Result extends Component {
                 if (resultBooks[l].value === greater)
                     profile.push(resultBooks[l]);
             }
-            /*
-            profileResult = profile.map(pro => {
-                return (
-                    <Profile p={pro} books={this.getBooks} schools={this.getSchools} />
-                )
-            });
-            resultTile = profile.length > 1 ? "Você se identifica com mais de um perfil:" : "Você se identifica mais com:"
-            */
+            
 
             //MULTIPLE PROFILES SUPPORT
             
@@ -106,7 +99,7 @@ class Result extends Component {
                 }
 
                 if (profileResultBySchool.realism.length > 1) {
-                    profileResultRealism = <ProfileSchool profiles={profileResultBySchool.romantism} books={this.getBooks} schools={this.getSchools} />
+                    profileResultRealism = <ProfileSchool profiles={profileResultBySchool.realism} books={this.getBooks} schools={this.getSchools} />
                 } else if (profileResultBySchool.realism.length === 1) {
                     profileResultRealism = <Profile p={profileResultBySchool.realism[0]} books={this.getBooks} schools={this.getSchools} />
                 } else {

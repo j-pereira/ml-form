@@ -25,12 +25,9 @@ class PersonalInfo extends Component {
     }
 
     componentDidMount() {
-        ReactDOM.findDOMNode(this).scrollTop = 0
+        window.scrollTo(0, 0)
     }
-
-    componentDidUpdate() {
-        ReactDOM.findDOMNode(this).scrollTop = 0
-    }
+    
 
     render(){
     

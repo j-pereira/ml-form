@@ -20,13 +20,13 @@ class Home extends Component {
                         <div className="mt-4 mb-4 text-center"> 
                             <p>Olá, mulher! <br/>
                             Este questionário tem duração de aproximadamente 30 minutos e se você sair ou atualizar a página perderá todo seu progresso. 
-                            Temos por objetivo descobrir quem você é na literatura realista ou romântica através de um teste de personalidade. Então se ajeita e bora começar!</p>
+                            Temos por objetivo descobrir quem você é na literatura realista ou romântica através de um teste de personalidade. Fique tranquila, todos os seus dados são confidenciais. Então se ajeita e bora começar!</p>
                         </div>
                     </div>
                     <div className="col-sm-2 col-md-2 col-lg-2">
                     </div>
                 </div>
-                <div className="row mt-2">
+                <div className="row mt-1">
                     <div className="col">
                         <button 
                             type="submit" 
